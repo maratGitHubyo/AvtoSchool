@@ -1,0 +1,11 @@
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\bin\Debug\CourseProjectOOP.exe.config
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\bin\Debug\CourseProjectOOP.exe
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\bin\Debug\CourseProjectOOP.pdb
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.csprojAssemblyReference.cache
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.Form1.resources
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.Properties.Resources.resources
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.csproj.GenerateResource.cache
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.exe
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.pdb
+C:\Users\Марат\RiderProjects\CourseProjectOOP\CourseProjectOOP\obj\Debug\CourseProjectOOP.HelloForm.resources
